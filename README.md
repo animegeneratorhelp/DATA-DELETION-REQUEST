@@ -1,4 +1,4 @@
-**DATA DELETION REQUEST**
+
 
 This page is provided for users who want to request deletion of their personal data related to the app Anime AI Generator Maker.
 
